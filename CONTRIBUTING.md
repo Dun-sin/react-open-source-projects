@@ -18,13 +18,19 @@
   ```bash
   git checkout -b YourName/ProjectName
   ```
+  
 - Add the project to the readme and add it to git
   ```bash
   git add readme.md
   ```
-- Commit 
+- Commit
+  for adding a project
   ```bash
   git commit -m"docs: add <projectname>"
+  ```
+  something other than adding a project
+  ```bash
+  git commit -m"docs: <what you did>"
   ```
 - Push
   ```bash
