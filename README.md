@@ -1,7 +1,7 @@
 # react-open-source-projects
 A list of open source react projects to contribute to.
 
-Add your personal or favorite open source react project, read the [contributing.md]() file on how
+Add your personal or favorite open source react project, read the [contributing.md](https://github.com/Dun-sin/react-open-source-projects/blob/main/CONTRIBUTING.md) file on how
 
 # Projects
   ### 1. [Whisper](https://github.com/Dun-sin/Whisper)
