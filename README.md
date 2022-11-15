@@ -10,3 +10,5 @@ Add your personal or favorite open source react project, read the [contributing.
   #### 4. [Noteslify](https://github.com/dvstechlabs/Noteslify) - Your Privacy Friendly, Open Source. Alternative to EverNote. 
   #### 5. [DeveloperFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. 
 
+  #### 6. [Abbreve](https://github.com/Njong392/Abbreve) - Abbreve is an open-source dictionary for slang.
+
