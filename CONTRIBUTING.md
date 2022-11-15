@@ -1,6 +1,10 @@
+## Requirements for projects
+- Project must have at least 10 contributors
+- Project must be active, no less than 1 month update
+
 ## How to contribute
 - Make sure the project isn't already in the list and not an [existing issue](https://github.com/Dun-sin/react-open-source-projects/issues)
-- Create an [issue](https://github.com/Dun-sin/react-open-source-projects/issues/new/choose) with the link and name of the project you want to add(project must have at least 10 contributors)
+- Create an [issue](https://github.com/Dun-sin/react-open-source-projects/issues/new/choose) with the link and name of the project you want to add
 - Once the project is approved, create a PR adding the project to the readme
 
 ## How to create a PR
