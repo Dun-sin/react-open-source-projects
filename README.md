@@ -9,4 +9,4 @@ Add your personal or favorite open source react project, read the [contributing.
   #### 3. [DripUI](https://github.com/khazifire/DripUI) - A collection of free Tailwind CSS components to bootstrap your new apps, projects or landing sites! 
   #### 4. [Noteslify](https://github.com/dvstechlabs/Noteslify) - Your Privacy Friendly, Open Source. Alternative to EverNote. 
   #### 5. [DeveloperFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. 
-
+  #### 6. [Headx](https://github.com/theritikchoure/headx) - It is a React Package to automatically modify the main html file (like index.html) to add the provided SEO meta tags and more. For example you can use it to add on the build time the following meta tags: title, description, open graph, twitter, icons and more.
