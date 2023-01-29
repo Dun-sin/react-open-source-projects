@@ -40,7 +40,7 @@
   ```
 - Push
   ```bash
-  git push
+  git push -u origin <your branch name>
   ```
 
 ## Special Thanks To The Amazing Contributors in
