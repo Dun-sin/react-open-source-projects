@@ -23,4 +23,3 @@ Add your personal or favorite open source react project, read the [contributing.
 #### 8. [ProjectMate](https://github.com/rohitdasu/projectmate) - Find your project mate online
 
 #### 9. [ReactPlay](https://github.com/reactplay/react-play) - An open-source platform to learn, create and share ReactJS projects with the developer community
-#### 10. [BioDrop](https://github.com/EddieHubCommunity/BioDrop) - A platform where people in tech can have a single hub to showcase their content in order to accelerate their career, whilst contributing to an Open Source project and being part of a community that has a say in where the project is going.
