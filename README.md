@@ -23,3 +23,4 @@ Add your personal or favorite open source react project, read the [contributing.
 #### 8. [ProjectMate](https://github.com/rohitdasu/projectmate) - Find your project mate online
 
 #### 9. [ReactPlay](https://github.com/reactplay/react-play) - An open-source platform to learn, create and share ReactJS projects with the developer community
+#### 10.[ PrologApp](https://github.com/profydev/prolog-app/) - The application is an error logging and monitoring tool similar to Sentry or Rollbar
