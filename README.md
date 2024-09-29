@@ -25,5 +25,3 @@ Add your personal or favorite open source react project, read the [contributing.
 #### 9. [ReactPlay](https://github.com/reactplay/react-play) - An open-source platform to learn, create and share ReactJS projects with the developer community
 
 #### 10. [CustomCodeEditor](https://github.com/DhanushNehru/CustomCodeEditor) - An open-source tool allows users to write, test, and execute code in various programming languages
-
-#### 11. [HarmonyCode](https://github.com/DhanushNehru/HarmonyCode) - An open-source platform that blends music with coding.
